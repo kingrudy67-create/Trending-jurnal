@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "TradeFlow Cent Journal",
+  "short_name": "TradeFlow Cent",
+  "description": "Jurnal trading akun cent dengan konversi USC, USD, IDR, analitik, dan evaluasi.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    {"src":"./icons/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
